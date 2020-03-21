@@ -1,5 +1,7 @@
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
+This is Rick Gerkin's fork.
+Interactive binder link here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rgerkin/COVID-19/master?filepath=covid.ipynb)
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
